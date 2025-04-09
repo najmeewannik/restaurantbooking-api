@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\restaurantbooking-api.props" />
+</Project>

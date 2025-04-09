@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|d:\\projects-web-app\\restaurant-booking-webapp\\restaurantbooking-api\\restaurantbooking-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|solutionrelative:restaurantbooking-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|d:\\projects-web-app\\restaurant-booking-webapp\\restaurantbooking-api\\restaurantbooking-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|solutionrelative:restaurantbooking-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|d:\\projects-web-app\\restaurant-booking-webapp\\restaurantbooking-api\\restaurantbooking-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907218FC-6866-4AA1-B015-86FDCD5995E2}|restaurantbooking-api\\restaurantbooking-api.csproj|solutionrelative:restaurantbooking-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\appsettings.json",
+              "RelativeDocumentMoniker": "restaurantbooking-api\\appsettings.json",
+              "ToolTip": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\appsettings.json",
+              "RelativeToolTip": "restaurantbooking-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T14:13:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "restaurantbooking-api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "restaurantbooking-api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:12:16.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "restaurantbooking-api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\projects-web-app\\Restaurant-Booking-WebApp\\restaurantbooking-api\\restaurantbooking-api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "restaurantbooking-api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:00:29.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
